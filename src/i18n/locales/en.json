@@ -1,0 +1,16 @@
+{
+    "leftMenu": {
+      "adminDashBoard": "Admin Dashboard",
+      "ticket": "Ticket",
+      "settings": "Settings",
+      "user": "User",
+      "account": "Account"
+    },
+    "dashBoard": {
+      "title": "Dashboard"
+    },
+    "ticket": {
+      "title": "Ticket management",
+      "createTicket": "Create ticket"
+    }
+}

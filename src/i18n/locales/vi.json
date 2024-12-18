@@ -1,0 +1,16 @@
+{
+    "leftMenu": {
+      "adminDashBoard": "Bảng điều khiển quản trị viên",
+      "ticket": "Vé",
+      "settings": "Cài đặt",
+      "user": "Người dùng",
+      "account": "Tài khoản"
+    },
+    "dashBoard": {
+      "title": "Bảng điều khiển"
+    },
+    "ticket": {
+      "title": "Quản lý vé",
+      "createTicket": "Tạo mới vé"
+    }
+}
