@@ -1,6 +1,6 @@
 // import { SIDEBAR_SHOW_STATUS } from "@constants/constants";
 import { createSlice } from "@reduxjs/toolkit";
-import { SIDEBAR_SHOW_STATUS } from "@constants/constants.ts";
+import { SIDEBAR_SHOW_STATUS } from "../../constants/constants.ts";
 
 const initialState = {
   sidebarShow: SIDEBAR_SHOW_STATUS.EXPAND,
