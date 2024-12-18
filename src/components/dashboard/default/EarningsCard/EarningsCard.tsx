@@ -3,7 +3,7 @@ import { Pie } from '@ant-design/charts';
 import { ArrowDownOutlined, ArrowUpOutlined } from '@ant-design/icons';
 import * as _ from 'lodash';
 import { MoreMenu } from '../../../index.ts';
-
+import React from 'react'
 type Props = {
   data: any;
   title: string;

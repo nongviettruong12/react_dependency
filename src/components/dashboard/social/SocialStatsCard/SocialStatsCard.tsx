@@ -9,7 +9,7 @@ import {
 import { ReactElement, ReactNode } from 'react';
 import { Card, Loader } from '../../../index';
 import CountUp from 'react-countup';
-
+import React from 'react'
 type Props = {
   title: 'followers' | 'following' | 'likes' | 'comments' | string;
   value?: number;

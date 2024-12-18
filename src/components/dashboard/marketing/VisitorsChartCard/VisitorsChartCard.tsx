@@ -2,7 +2,7 @@ import { Button, CardProps } from 'antd';
 import { RightOutlined } from '@ant-design/icons';
 import { Area } from '@ant-design/charts';
 import { Card } from '../../../index.ts';
-
+import React from 'react'
 const AreaChart = () => {
   const data = [
     {

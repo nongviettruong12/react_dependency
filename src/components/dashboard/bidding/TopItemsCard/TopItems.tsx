@@ -3,7 +3,7 @@ import { AuctionSales } from '../../../../types';
 import { Card } from '../../../index.ts';
 import { ReactNode } from 'react';
 import { numberWithCommas } from '../../../../utils';
-
+import React from 'react'
 const SALES_COLUMNS = [
   {
     title: 'Title',

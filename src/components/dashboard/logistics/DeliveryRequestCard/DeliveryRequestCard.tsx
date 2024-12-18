@@ -1,7 +1,7 @@
 import { Badge, Button, CardProps, Flex, List, Space, Typography } from 'antd';
 import { DeliveryRequest } from '../../../../types';
 import { Card, UserAvatar } from '../../../index.ts';
-
+import React from 'react'
 import './styles.css';
 import { ReactNode } from 'react';
 import { CalendarOutlined } from '@ant-design/icons';

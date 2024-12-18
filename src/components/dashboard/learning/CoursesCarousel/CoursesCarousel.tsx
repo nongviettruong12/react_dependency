@@ -22,7 +22,7 @@ import {
 } from '@ant-design/icons';
 import { Card, Loader } from '../../../index.ts';
 import { useMediaQuery } from 'react-responsive';
-
+import React from 'react'
 import './styles.css';
 
 type CardItemProps = {

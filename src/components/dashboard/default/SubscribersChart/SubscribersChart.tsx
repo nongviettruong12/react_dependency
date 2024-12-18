@@ -1,7 +1,7 @@
 import { Card, CardProps, Flex, Typography } from 'antd';
 import { Column } from '@ant-design/charts';
 import { MoreMenu } from '../../../index.ts';
-
+import React from 'react'
 type Props = CardProps;
 
 const ColumnChart = () => {

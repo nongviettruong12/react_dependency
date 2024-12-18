@@ -2,7 +2,7 @@ import { Alert, Card, CardProps, Table, Typography } from 'antd';
 import { MoreMenu } from '../../../index.ts';
 import { useFetchData } from '../../../../hooks';
 import { ReactNode } from 'react';
-
+import React from 'react'
 const COLUMNS = [
   {
     title: 'Names',

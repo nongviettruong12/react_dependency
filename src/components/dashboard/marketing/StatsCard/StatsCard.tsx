@@ -2,7 +2,7 @@ import { CardProps, Col, Flex, Row, Tag, Typography } from 'antd';
 import { TinyColumn } from '@ant-design/charts';
 import { Card } from '../../../index.ts';
 import CountUp from 'react-countup';
-
+import React from 'react'
 type ChartData = [number, number, number, number];
 
 type StatsColumnChartProps = {

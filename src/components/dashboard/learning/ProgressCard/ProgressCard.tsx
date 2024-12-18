@@ -12,7 +12,7 @@ import {
 import { RadialBar } from '@ant-design/charts';
 import { DownOutlined } from '@ant-design/icons';
 import { Card } from '../../../index.ts';
-
+import React from 'react'
 const RadialChart = () => {
   const data = [
     {

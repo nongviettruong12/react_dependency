@@ -2,7 +2,7 @@ import { CardProps, Typography } from 'antd';
 import { useEffect, useState } from 'react';
 import { Line } from '@ant-design/charts';
 import { Card } from '../../../index.ts';
-
+import React from 'react'
 type TabKeys = 'all' | 'followers' | 'following' | 'blocked' | string;
 
 type LineProps = {

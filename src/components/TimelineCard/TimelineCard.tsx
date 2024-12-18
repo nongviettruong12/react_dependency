@@ -7,7 +7,7 @@ import {
 import { ActivityTimeline } from '../../types';
 import { Card, Loader } from '../index.ts';
 import { ReactNode } from 'react';
-
+import React from 'react'
 type Props = {
   data?: ActivityTimeline[];
   loading?: boolean;

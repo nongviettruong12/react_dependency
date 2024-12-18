@@ -18,7 +18,7 @@ import {
 } from '@ant-design/icons';
 import { Comments } from '../../../../types';
 import { Card, Loader, UserAvatar } from '../../../index';
-
+import React from 'react'
 import './styles.css';
 
 type Props = {

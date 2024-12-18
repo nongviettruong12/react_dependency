@@ -1,7 +1,7 @@
 import { Area } from '@ant-design/charts';
 import { CardProps } from 'antd';
 import { Card } from '../../../index.ts';
-
+import React from 'react'
 type Activity = {
   day: string;
   value: number;

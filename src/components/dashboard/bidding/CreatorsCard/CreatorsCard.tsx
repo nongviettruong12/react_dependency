@@ -4,7 +4,7 @@ import { AuctionCreator } from '../../../../types';
 import { Card, UserAvatar } from '../../../index';
 import { UserAddOutlined } from '@ant-design/icons';
 import './styles.css';
-
+import React from 'react';
 const COLUMNS: TableColumnsType<AuctionCreator> = [
   {
     key: 'creators_name',

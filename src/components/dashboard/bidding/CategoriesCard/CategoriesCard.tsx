@@ -1,6 +1,6 @@
 import { CardProps, Table } from 'antd';
 import { Card } from '../../../index.ts';
-
+import React from 'react'
 import './styles.css';
 
 const CATEGORIES_MOCKS = [

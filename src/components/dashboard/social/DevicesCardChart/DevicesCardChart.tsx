@@ -8,7 +8,7 @@ import {
   TabletFilled,
 } from '@ant-design/icons';
 import { Card } from '../../../index.ts';
-
+import React from 'react'
 const PieChart = () => {
   const data = [
     {

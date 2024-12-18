@@ -20,7 +20,7 @@ import { CampaignAds } from '../../../../types';
 import { createElement, ReactNode, useEffect, useState } from 'react';
 import * as _ from 'lodash';
 import { numberWithCommas } from '../../../../utils';
-
+import React from 'react'
 type ParentDataType = {
   id: string;
   ad_source: string;

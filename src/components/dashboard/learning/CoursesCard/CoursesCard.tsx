@@ -4,7 +4,7 @@ import { SwapRightOutlined } from '@ant-design/icons';
 import { ColumnsType } from 'antd/es/table';
 import { Card, UserAvatar } from '../../../index.ts';
 import { ReactNode } from 'react';
-
+import React from 'react'
 const COURSES_COLUMNS: ColumnsType<LearningCourses> = [
   {
     title: 'Courses Title',

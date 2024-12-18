@@ -3,7 +3,7 @@ import { AuctionTransactions } from '../../../../types';
 import { SwapRightOutlined } from '@ant-design/icons';
 import { Card } from '../../../index.ts';
 import { ReactNode } from 'react';
-
+import React from 'react'
 const TRANSACTIONS_COLUMNS = [
   {
     title: 'Type',

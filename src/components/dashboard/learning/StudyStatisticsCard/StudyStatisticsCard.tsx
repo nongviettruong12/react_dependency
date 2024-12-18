@@ -3,7 +3,7 @@ import { Heatmap } from '@ant-design/charts';
 import { ReactNode, useEffect, useState } from 'react';
 import * as _ from 'lodash';
 import { Card, Loader } from '../../../index.ts';
-
+import React from 'react'
 type StudyStatistics = {
   id: string;
   value: number;

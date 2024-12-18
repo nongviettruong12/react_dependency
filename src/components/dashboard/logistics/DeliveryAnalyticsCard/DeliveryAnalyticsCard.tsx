@@ -4,7 +4,7 @@ import { DeliveryAnalytics } from '../../../../types';
 import { ReactNode, useEffect, useState } from 'react';
 import * as _ from 'lodash';
 import { Card, Loader } from '../../../index.ts';
-
+import React from 'react'
 type ChartProps = {
   data: DeliveryAnalytics[];
 };

@@ -15,7 +15,7 @@ import {
 import { ClockCircleOutlined } from '@ant-design/icons';
 import { Bidding } from '../../../../types';
 import { Card, Loader } from '../../../index.ts';
-
+import React from 'react'
 import './styles.css';
 
 type CardItemProps = {

@@ -1,7 +1,7 @@
 import { Bar } from '@ant-design/charts';
 import { CardProps } from 'antd';
 import { Card } from '../../../index.ts';
-
+import React from 'react'
 type Plan = {
   type: string;
   value: number;

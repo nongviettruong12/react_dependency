@@ -13,7 +13,7 @@ import {
   UsergroupAddOutlined,
 } from '@ant-design/icons';
 import { Projects } from '../../../../types';
-
+import React from 'react'
 import './styles.css';
 
 const { Text, Title } = Typography;

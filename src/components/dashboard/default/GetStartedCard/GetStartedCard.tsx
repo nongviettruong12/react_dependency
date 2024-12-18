@@ -2,7 +2,7 @@ import { Button, CardProps, Flex, Image, Typography } from 'antd';
 import { RightOutlined } from '@ant-design/icons';
 import { Card } from '../../../index';
 import CountUp from 'react-countup';
-
+import React from 'react'
 type Props = CardProps;
 
 export const GetStartedCard = ({ ...others }: Props) => {

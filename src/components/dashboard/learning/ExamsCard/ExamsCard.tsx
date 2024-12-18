@@ -1,7 +1,7 @@
 import { Alert, Button, CardProps, Flex, List, Typography } from 'antd';
 import { Exam } from '../../../../types';
 import { RightOutlined } from '@ant-design/icons';
-
+import React from 'react'
 import './styles.css';
 import { Card } from '../../../index.ts';
 import { ReactNode } from 'react';

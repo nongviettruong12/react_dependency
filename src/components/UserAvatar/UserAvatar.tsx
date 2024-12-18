@@ -3,7 +3,7 @@ import { colourNameToHex, getNameInitials, isColorLight } from '../../utils';
 import { CheckCircleFilled, UserOutlined } from '@ant-design/icons';
 import { blue } from '@ant-design/colors';
 import { CSSProperties } from 'react';
-
+import React from 'react'
 /**
  * mark - not a full name user, just a single user name
  */

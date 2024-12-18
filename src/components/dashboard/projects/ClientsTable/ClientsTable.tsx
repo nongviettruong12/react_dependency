@@ -1,7 +1,7 @@
 import { Table, TableProps, Typography } from 'antd';
 import { Clients } from '../../../../types';
 import { UserAvatar } from '../../../index.ts';
-
+import React from 'react'
 const COLUMNS = [
   {
     title: 'Client Name',

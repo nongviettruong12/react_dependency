@@ -1,7 +1,7 @@
 import { Column } from '@ant-design/charts';
 import { Button, CardProps } from 'antd';
 import { Card } from '../../../index.ts';
-
+import React from 'react'
 type Tasks = {
   day: string;
   value: number;

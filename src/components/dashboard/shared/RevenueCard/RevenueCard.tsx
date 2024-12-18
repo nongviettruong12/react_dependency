@@ -4,7 +4,7 @@ import { green, red } from '@ant-design/colors';
 import CountUp from 'react-countup';
 import { Card } from '../../../index.ts';
 import { CSSProperties } from 'react';
-
+import React from 'react'
 type Props = {
   title: string;
   value: string | number;

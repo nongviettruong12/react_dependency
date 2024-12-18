@@ -11,7 +11,7 @@ import {
 import { green, lime, orange, red, yellow } from '@ant-design/colors';
 import { QuestionOutlined } from '@ant-design/icons';
 import { Card } from '../../../index.ts';
-
+import React from 'react'
 const PROGRESS_PROPS: ProgressProps = {
   style: {
     width: 300,

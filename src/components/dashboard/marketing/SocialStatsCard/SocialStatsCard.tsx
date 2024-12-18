@@ -17,7 +17,7 @@ import {
 import { Card } from '../../../index.ts';
 import { createElement } from 'react';
 import CountUp from 'react-countup';
-
+import React from 'react'
 const SOCIALS_DATA = [
   {
     icon: FacebookFilled,

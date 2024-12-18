@@ -1,7 +1,7 @@
 import { CardProps } from 'antd';
 import { Column } from '@ant-design/charts';
 import { Card } from '../../../index.ts';
-
+import React from 'react'
 const ColumnChart = () => {
   const data = [
     {

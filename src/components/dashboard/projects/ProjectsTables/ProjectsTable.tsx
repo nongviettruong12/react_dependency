@@ -8,7 +8,7 @@ import {
   Typography,
 } from 'antd';
 import { Projects } from '../../../../types';
-
+import React from 'react'
 const COLUMNS = [
   {
     title: 'Name',

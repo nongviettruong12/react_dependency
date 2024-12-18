@@ -2,7 +2,7 @@ import { CirclePacking } from '@ant-design/charts';
 import { Button, CardProps, Popover } from 'antd';
 import { Card } from '../../../index.ts';
 import { QuestionOutlined } from '@ant-design/icons';
-
+import React from 'react'
 const CirclePackingChart = () => {
   const data = {
     name: 'root',

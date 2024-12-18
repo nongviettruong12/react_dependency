@@ -17,7 +17,7 @@ import { CalendarOutlined, PlusOutlined } from '@ant-design/icons';
 import { blue, green, orange } from '@ant-design/colors';
 import CampaignsData from '../../../../../public/mocks/Campaigns.json';
 import { Loader } from '../../../index.ts';
-
+import React from 'react'
 // socials - Facebook, Instagram, Twitter, LinkedIn
 // target audience - men, women, young adults, parents
 // statuses - active, inactive, pending, completed, cancelled

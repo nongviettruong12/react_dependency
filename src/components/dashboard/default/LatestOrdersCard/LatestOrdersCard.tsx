@@ -2,7 +2,7 @@ import { Alert, Card, CardProps, Table } from 'antd';
 import { MoreMenu } from '../../../index.ts';
 import { ReactNode } from 'react';
 import { useFetchData } from '../../../../hooks';
-
+import React from 'react'
 const COLUMNS = [
   {
     title: 'Customer name',

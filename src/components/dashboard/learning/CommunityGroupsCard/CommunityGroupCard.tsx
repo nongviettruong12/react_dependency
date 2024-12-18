@@ -3,7 +3,7 @@ import { CommunityGroup } from '../../../../types';
 import { PlusOutlined } from '@ant-design/icons';
 import { Card } from '../../../index.ts';
 import { ReactNode } from 'react';
-
+import React from 'react'
 import './styles.css';
 
 type Props = {

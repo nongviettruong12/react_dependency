@@ -12,7 +12,7 @@ import {
 } from 'antd';
 import ProjectsData from '../../../../../public/mocks/Projects.json';
 import './styles.scss';
-
+import React from 'react'
 const PROGRESS_PROPS: ProgressProps = {
   type: 'circle',
   showInfo: false,

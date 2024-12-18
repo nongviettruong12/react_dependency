@@ -13,7 +13,7 @@ import {
 import { Tasks } from '../../../../types';
 import { CalendarOutlined, FlagOutlined } from '@ant-design/icons';
 import { Card, Loader, UserAvatar } from '../../../index';
-
+import React from 'react'
 import './styles.css';
 
 type Props = {

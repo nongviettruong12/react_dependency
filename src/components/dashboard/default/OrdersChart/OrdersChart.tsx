@@ -1,7 +1,7 @@
 import { Card, CardProps } from 'antd';
 import { Area } from '@ant-design/charts';
 import { MoreMenu } from '../../../index.ts';
-
+import React from 'react'
 const AreaChart = () => {
   const data = [
     {

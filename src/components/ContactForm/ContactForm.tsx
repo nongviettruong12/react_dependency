@@ -1,7 +1,7 @@
 import { Button, Col, Form, FormProps, Input, Row } from 'antd';
 import { SendOutlined } from '@ant-design/icons';
 import { useStylesContext } from '../../context';
-
+import React from 'react'
 const { TextArea } = Input;
 
 type Props = FormProps;
